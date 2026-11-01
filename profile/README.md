@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://farsiui.ir/farsiui/favicon.png" alt="FarsiUI" width="96" />
   <h1>FarsiUI</h1>
   <p><strong>Persian-first UI. Your code. Your rules.</strong></p>
   <p>RTL-ready React + Tailwind ecosystem. Install what you need. Own every line.</p>
